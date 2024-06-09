@@ -1,0 +1,2 @@
+git add hello. txt
+  git commit -m "S=Add hello. txt with greeting"
